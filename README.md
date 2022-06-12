@@ -10,7 +10,7 @@
 
 ## Jr Fullstack Developer | Computer Engineering Student
 
-- 🔭 I'm work at Devstudio: [Development Company][company]!
+- 🔭 I'm work at Devstudio: [Development Company][company]!<img src="https://gifrific.com/wp-content/uploads/2013/01/Inception-Cinemagraph-poster.gif" align="right" height="300">
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to be a senior fullstack developer :computer:
 - 🥅 2022 Goals: Learn JavaScript Frameworks and become Django master 🤣
@@ -19,10 +19,10 @@
 
 ### Connect with me:
 
-[![website](./img/github-dark.svg)](yemreyolcu.github.io)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/yemrewho)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/yemrewho)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/yemreyolcu)
+[![website](github-dark.svg)](yemreyolcu.github.io)
+[![instagram](instagram-dark.svg)](https://instagram.com/yemrewho)
+[![twitter](twitter-dark.svg)](https://twitter.com/yemrewho)
+[![linkedin](linkedin-dark.svg)](https://linkedin.com/in/yemreyolcu)
 
 
 
