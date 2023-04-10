@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Emre, a full-time full-stack developer 👨‍💻 working at devstudio remotely  🚀</div>  
+### <div align="center">I'm Emre, a student an computer engineer candidate also backend developer  🚀</div>  
   
 
 - 🔭 I’m currently working on [DevStudio](https://devstudio.design/)  
